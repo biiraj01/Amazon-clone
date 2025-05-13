@@ -150,7 +150,7 @@
 .shop-section{
     display: flex;
     justify-content: space-evenly;
-    background-color:peachpuff;
+    background-color:rgb(255, 123, 0);
     flex-wrap: wrap;
 }
 .box{
